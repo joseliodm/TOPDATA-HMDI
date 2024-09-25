@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\DAO\\DAOConexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAO\\DAOConexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\DAO\\DAOBilhete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAO\\DAOBilhete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\DAO\\DAOUsuariosBio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAO\\DAOUsuariosBio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\Entity\\ASO15_DEF.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\ASO15_DEF.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\COM\\EasyInner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:COM\\EasyInner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\Properties\\Resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\Resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\UI\\FrmSobre\\FrmSobre.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UI\\FrmSobre\\FrmSobre.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\UI\\FrmOnline\\FrmOnline.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UI\\FrmOnline\\FrmOnline.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\UI\\FrmBIO\\FrmBIO.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UI\\FrmBIO\\FrmBIO.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\UI\\FrmBIO\\frmBio6xx.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UI\\FrmBIO\\frmBio6xx.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\UI\\FrmMain\\FrmMain.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UI\\FrmMain\\FrmMain.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\UI\\FrmOffLine\\FrmOffLine.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UI\\FrmOffLine\\FrmOffLine.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAOUsuariosBio.cs",
+              "DocumentMoniker": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\DAO\\DAOUsuariosBio.cs",
+              "RelativeDocumentMoniker": "DAO\\DAOUsuariosBio.cs",
+              "ToolTip": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\DAO\\DAOUsuariosBio.cs",
+              "RelativeToolTip": "DAO\\DAOUsuariosBio.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAADwv40AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:55:13.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAOConexao.cs",
+              "DocumentMoniker": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\DAO\\DAOConexao.cs",
+              "RelativeDocumentMoniker": "DAO\\DAOConexao.cs",
+              "ToolTip": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\DAO\\DAOConexao.cs",
+              "RelativeToolTip": "DAO\\DAOConexao.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:55:11.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAOBilhete.cs",
+              "DocumentMoniker": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\DAO\\DAOBilhete.cs",
+              "RelativeDocumentMoniker": "DAO\\DAOBilhete.cs",
+              "ToolTip": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\DAO\\DAOBilhete.cs",
+              "RelativeToolTip": "DAO\\DAOBilhete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:54:42.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ASO15_DEF.cs",
+              "DocumentMoniker": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\Entity\\ASO15_DEF.cs",
+              "RelativeDocumentMoniker": "Entity\\ASO15_DEF.cs",
+              "ToolTip": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\Entity\\ASO15_DEF.cs",
+              "RelativeToolTip": "Entity\\ASO15_DEF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:54:30.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:54:15.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EasyInner.cs",
+              "DocumentMoniker": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\COM\\EasyInner.cs",
+              "RelativeDocumentMoniker": "COM\\EasyInner.cs",
+              "ToolTip": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\COM\\EasyInner.cs",
+              "RelativeToolTip": "COM\\EasyInner.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:53:46.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-10T13:53:24.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:53:05.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmSobre.resx",
+              "DocumentMoniker": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\UI\\FrmSobre\\FrmSobre.resx",
+              "RelativeDocumentMoniker": "UI\\FrmSobre\\FrmSobre.resx",
+              "ToolTip": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\UI\\FrmSobre\\FrmSobre.resx",
+              "RelativeToolTip": "UI\\FrmSobre\\FrmSobre.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-10T13:53:00.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmOnline.resx",
+              "DocumentMoniker": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\UI\\FrmOnline\\FrmOnline.resx",
+              "RelativeDocumentMoniker": "UI\\FrmOnline\\FrmOnline.resx",
+              "ToolTip": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\UI\\FrmOnline\\FrmOnline.resx",
+              "RelativeToolTip": "UI\\FrmOnline\\FrmOnline.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-10T13:52:41.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmBIO.resx",
+              "DocumentMoniker": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\UI\\FrmBIO\\FrmBIO.resx",
+              "RelativeDocumentMoniker": "UI\\FrmBIO\\FrmBIO.resx",
+              "ToolTip": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\UI\\FrmBIO\\FrmBIO.resx",
+              "RelativeToolTip": "UI\\FrmBIO\\FrmBIO.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-10T13:52:31.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmBio6xx.resx",
+              "DocumentMoniker": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\UI\\FrmBIO\\frmBio6xx.resx",
+              "RelativeDocumentMoniker": "UI\\FrmBIO\\frmBio6xx.resx",
+              "ToolTip": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\UI\\FrmBIO\\frmBio6xx.resx",
+              "RelativeToolTip": "UI\\FrmBIO\\frmBio6xx.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-10T13:52:22.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmMain.resx",
+              "DocumentMoniker": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\UI\\FrmMain\\FrmMain.resx",
+              "RelativeDocumentMoniker": "UI\\FrmMain\\FrmMain.resx",
+              "ToolTip": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\UI\\FrmMain\\FrmMain.resx",
+              "RelativeToolTip": "UI\\FrmMain\\FrmMain.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-10T13:51:45.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmOffLine.resx",
+              "DocumentMoniker": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\UI\\FrmOffLine\\FrmOffLine.resx",
+              "RelativeDocumentMoniker": "UI\\FrmOffLine\\FrmOffLine.resx",
+              "ToolTip": "C:\\Users\\jdm\\source\\repos\\Topdata\\Topdata\\Exemplos\\CSharp\\LabEasyInner\\Fontes\\UI\\FrmOffLine\\FrmOffLine.resx",
+              "RelativeToolTip": "UI\\FrmOffLine\\FrmOffLine.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-10T13:51:40.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
